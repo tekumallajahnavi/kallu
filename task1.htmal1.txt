@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Bhagya
+</title>
+<body>
+<marquee><h1>WELCOME TO MY MOVIE CLUB!</h1></marquee><mark><i></mark>
+<h2> MY Favoriate Movies</h2>
+<table border="1"width="100%">
+<tr>
+ <th>Name</th>
+ <th>Genre</th>
+ <th>year</th>
+ <th>Rating</th>
+</tr>
+<tr>
+ <th>Amaran</th>
+ <th>love</th>
+ <th>2024</th>
+ <th>4.8</th>
+</tr>
+<tr>
+ <th>Hanuman</th>
+ <th>action</th>
+ <th>2023</th>
+ <th>5.0</th>
+</tr>
+<tr>
+ <th>Thandel</th>
+ <th>love</th>
+ <th>2024</th>
+ <th></th>
+</tr>
+</table>
+<h2>My Favoriate Actor</h2>
+<img src=https://"C:\Users\tekum\Downloads\heroien.jpeg">
+<h2>Movie Trailer</h2>
+<video src="C:\Users\tekum\Videos\Captures\www.5MovieRulz.sbs - Jailer (2023) Telugu HQ HDRip - x264 - AAC - 700MB ESub.mkv"></video>
+<h2>Soundtrack</h2>
+<audio src="C:\Users\tekum\Downloads\Chikitu.mp3"></audio>
+</body>
+</html>
